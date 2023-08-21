@@ -23,5 +23,5 @@ Key steps include:
 * Centrality and clique analysis
 * Interactive network visualization
 
-##License
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
